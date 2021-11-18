@@ -7,19 +7,6 @@ for (let i = 0; i < data2.length; i++ ) {
     console.log(data[j] + data2[i])
 }
 
-
-const data3 = ['A', 'B', 'C']
-const out = []
-
-for (let j= 0; j < data3.length; j++ ) {
-    out[i] = data[i]
-}
-
-O(n)
-
-
-
-
 // Quadratic Time - ex) bubble sort, selection sort, insertion sort
 // Nested Loops
 
@@ -36,10 +23,6 @@ O(n^2)
 // remove constant
 // O(n^2 + n) ===> O(n^2)
 
-
-
-
-
 // Constant Time - ex) Hash tables
 
 const pizza = { 
@@ -49,8 +32,6 @@ const pizza = {
 }
 
 O(1)
-
-
 
 
 // Logarithmic Time 
