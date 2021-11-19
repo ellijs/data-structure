@@ -38,3 +38,6 @@ O(1)
 // Can't use binary search. Faster than above
 
 O(log n)
+
+O(n^3)
+O(2^n)
